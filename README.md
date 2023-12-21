@@ -8,9 +8,9 @@ The motivation for this project was to improve the codebase for Horiseon Marketi
 
 To navigate on the web application, you can click any of the 3 navigation topics in the top right of the application upon opening. This will take the user down to the corresponding topic and describes the content for Horiseon.
 
-## Image
+## Application Image and Link
 
-The following image shows the web application's appearance
+The following image shows the web application's appearance. You can also go to the web application by clicking the following link. http://127.0.0.1:5500/index.html
 
 ![The Horiseon webpage includes a navigation bar, a header image, and card sections with text and images at the bottom of the page.](./assets/Horiseon-Marketing-Optimization-and-Management.png)
 ## Credits
