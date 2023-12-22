@@ -10,7 +10,7 @@ To navigate on the web application, you can click any of the 3 navigation topics
 
 ## Application Image and Link
 
-The following image shows the web application's appearance. You can also go to the web application by clicking the following link. http://127.0.0.1:5500/index.html
+The following image shows the web application's appearance. You can also go to the web application by clicking the following link. https://chelleyoungw.github.io/marketing-accessibility
 
 ![The Horiseon webpage includes a navigation bar, a header image, and card sections with text and images at the bottom of the page.](./assets/Horiseon-Marketing-Optimization-and-Management.png)
 ## Credits
